@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Mahbub Murshed",
-    "label": "Senior Software Engineer",
-    "picture": "https://mmurshed.github.io/images/profile.jpg",
+    "label": "Senior Software Engineer @ Microsoft",
+    "picture": "https://mmurshed.com/images/profile.jpg",
     "email": "murshed@gmail.com",
     "phone": "+1(412)953-2728",
     "website": "https://mmurshed.com",
@@ -120,28 +120,6 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "Arizona State University, Tempe, AZ",
-      "area": "Mechanical Engineering",
-      "studyType": "M.S.",
-      "startDate": "2005",
-      "endDate": "2008",
-      "gpa": "3.74",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Bangladesh University of Engineering & Technology, Dhaka, Bangladesh",
-      "area": "Mechanical Engineering",
-      "studyType": "B.S.",
-      "startDate": "1998",
-      "endDate": "2004",
-      "gpa": "3.74",
-      "courses": [
-      ]
-    }
-  ],
   "work": [
     {
       "company": "Microsoft",
@@ -225,6 +203,28 @@
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "Arizona State University, Tempe, AZ",
+      "area": "Mechanical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2005",
+      "endDate": "2008",
+      "gpa": "3.74",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Bangladesh University of Engineering & Technology, Dhaka, Bangladesh",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "1998",
+      "endDate": "2004",
+      "gpa": "3.74",
+      "courses": [
+      ]
+    }
+  ],
   "publications": [
     {
       "name": "Contribution in Programming Challenges",
@@ -251,21 +251,36 @@
       "summary": ""
     }
   ],
-  "training": [
+  "trainings": [
     {
-      "title": "Machine Learning"
+      "title": "Machine Learning",
+      "provider": "",
+      "date": "",
+      "summary": ""
     },
     {
-      "title": "Advanced and Core Elasticsearch"
+      "title": "Advanced and Core Elasticsearch",
+      "provider": "",
+      "date": "",
+      "summary": ""
     },
     {
-      "title": "Managing with Impact"
+      "title": "Managing with Impact",
+      "provider": "",
+      "date": "",
+      "summary": ""
     },
     {
-      "title": "Project Management for Practitioners"
+      "title": "Project Management for Practitioners",
+      "provider": "",
+      "date": "",
+      "summary": ""
     },
     {
-      "title": "Search Inside Yourself"
+      "title": "Search Inside Yourself",
+      "provider": "",
+      "date": "",
+      "summary": ""
     }
   ]
 }

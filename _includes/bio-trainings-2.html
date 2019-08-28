@@ -17,10 +17,10 @@
   </div>
 
   <div class="sixteen wide column no-bottom">
-    {% for entry in site.data.bio.awards %}
+    {% for entry in site.data.bio.trainings %}
       {% if entry.type == "grant" %}
         <p class="ui no-bottom">
-          <b>{{ entry.title }}</b>, {{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
+          <b>{{ entry.title }}</b>, {{ entry.provider }}{% if entry.date %}, {{ entry.date }}{% endif %}
         </p>
         <p class="ui">{{ entry.summary }}</p>
       {% endif %}
@@ -38,7 +38,7 @@
     {% for entry in site.data.bio.awards %}
       {% if entry.type != "grant" %}
         <p class="ui no-bottom">
-          <b>{{ entry.title }}</b>, {{ entry.awarder }}, {{ entry.date }}
+          <b>{{ entry.title }}</b>, {{ entry.provider }}, {{ entry.date }}
         </p>
         <p class="ui">{{ entry.summary }}</p>
       {% endif %}
