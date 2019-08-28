@@ -145,8 +145,8 @@
       "company": "Relativity",
       "position": "Sr. Software Engineer \\ Technical Lead",
       "website": "relativity.com",
-      "startDate": "2018-01-16",
-      "endDate": "2016-05-23",
+      "startDate": "2016-05-23",      
+      "endDate": "2018-01-16",
       "summary": "Developer of an e-Discovery solution for managing large volumes of evidence during litigation.",
       "highlights": [
         "Managed a team of two engineers to develop a search engine for 45 TB of audit logs in Elasticsearch in Azure using C#.",
