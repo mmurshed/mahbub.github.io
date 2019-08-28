@@ -63,23 +63,30 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C#",
+        "C++14",
+        "Scala",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "PHP",
+        "F#",
+        "MATLAB"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Databases",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Elasticsearch",
+        "Lucene",
+        "Kafka",
+        "Spark",
+        "Hive",
+        "Qubole",
+        "Neo4j",
+        "MSSQL",
+        "MySQL"
       ]
     }
   ],
