@@ -249,34 +249,19 @@
   ],
   "trainings": [
     {
-      "title": "Machine Learning",
-      "provider": "",
-      "date": "",
-      "summary": ""
+      "title": "Machine Learning"
     },
     {
-      "title": "Advanced and Core Elasticsearch",
-      "provider": "",
-      "date": "",
-      "summary": ""
+      "title": "Advanced and Core Elasticsearch"
     },
     {
-      "title": "Managing with Impact",
-      "provider": "",
-      "date": "",
-      "summary": ""
+      "title": "Managing with Impact"
     },
     {
-      "title": "Project Management for Practitioners",
-      "provider": "",
-      "date": "",
-      "summary": ""
+      "title": "Project Management for Practitioners"
     },
     {
-      "title": "Search Inside Yourself",
-      "provider": "",
-      "date": "",
-      "summary": ""
+      "title": "Search Inside Yourself"
     }
   ]
 }
