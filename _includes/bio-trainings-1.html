@@ -12,9 +12,9 @@
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
         <p class="ui no-bottom">
-          <b>{{ entry.title }}</b>, {{ entry.provider }}{% if entry.date %}, {{ entry.date }}{% endif %}
+          <b>{{ entry.title }}</b>{% if entry.provider %}, {{ entry.provider }}{% endif %}{% if entry.date %}, {{ entry.date }}{% endif %}
         </p>
-        <p class="ui">{{ entry.summary }}</p>
+        {% if entry.summary %}<p class="ui">{{ entry.summary }}</p>{% endif %}
       </div>
     </div>
 
