@@ -191,8 +191,8 @@
       "company": "Metatude",
       "position": "Software Engineer",
       "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2004-09-01",
+      "endDate": "2004-11-30",
       "summary": "Developer of an e-survey solution.",
       "highlights": [
         "Designed the functionalities for release 2.5 as part of the C++ team."
@@ -224,27 +224,15 @@
   "publications": [
     {
       "name": "Contribution in Programming Challenges",
-      "author": "Steven Skiena and Miguel Revilla",
-      "website": "",
-      "publisher": "",
-      "releaseDate": "",
-      "summary": ""
+      "author": "Steven Skiena and Miguel Revilla"
     },
     {
       "name": "Neutral Definition and Recognition of Assembly Features",
-      "author": "ASME IDETC",
-      "website": "",
-      "publisher": "",
-      "releaseDate": "",
-      "summary": ""
+      "publisher": "ASME IDETC"
     },
     {
       "name": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
-      "author": "ASME IDETC",
-      "website": "",
-      "publisher": "",
-      "releaseDate": "",
-      "summary": ""
+      "publisher": "ASME IDETC"
     }
   ],
   "trainings": [
