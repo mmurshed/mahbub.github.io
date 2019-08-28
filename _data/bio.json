@@ -60,7 +60,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C#",
@@ -88,16 +88,61 @@
         "MSSQL",
         "MySQL"
       ]
+    },
+    {
+      "name": "Azure",
+      "level": "",
+      "keywords": [
+        "VM",
+        "Blob",
+        "Function",
+        "SQL",
+        "PowerApps",
+        "LogicApps",
+        "Flow",
+        "APIM"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": [
+        "EC2",
+        "Kinesis",
+        "RDS",
+        "S3",
+        "Lambda",
+        "Neptune"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "",
+      "keywords": [
+        "Google Analytics",
+        "BigQuery",
+        "Google Cloud Storage"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Bangladesh University of Engineering & Technology, Dhaka, Bangladesh",
+      "area": "Mechanical Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "1998",
+      "endDate": "2004",
+      "gpa": "3.74",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Arizona State University, Tempe, AZ",
+      "area": "Mechanical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2005",
+      "endDate": "2008",
+      "gpa": "3.74",
       "courses": [
       ]
     }
