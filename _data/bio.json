@@ -127,16 +127,6 @@
   ],
   "education": [
     {
-      "institution": "Bangladesh University of Engineering & Technology, Dhaka, Bangladesh",
-      "area": "Mechanical Engineering",
-      "studyType": "B.S.",
-      "startDate": "1998",
-      "endDate": "2004",
-      "gpa": "3.74",
-      "courses": [
-      ]
-    },
-    {
       "institution": "Arizona State University, Tempe, AZ",
       "area": "Mechanical Engineering",
       "studyType": "M.S.",
@@ -145,31 +135,64 @@
       "gpa": "3.74",
       "courses": [
       ]
+    },
+    {
+      "institution": "Bangladesh University of Engineering & Technology, Dhaka, Bangladesh",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "1998",
+      "endDate": "2004",
+      "gpa": "3.74",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Microsoft",
+      "position": "Sr. Software Engineer \\ Technical Lead",
+      "website": "microsoft.com",
+      "startDate": "2018-10-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Managing one engineer to develop connector certification portal.",
+        "Leading the power platform connector open source effort using Python CLI, Azure Pipelines, and Flow, PowerApps, and LogicApps."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Expedia",
+      "position": "Sr. Software Engineer \\ Technical Lead",
+      "website": "expedia.com",
+      "startDate": "2018-01-16",
+      "endDate": "2018-10-05",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Managed a team of four engineers to build a big data (8 TB) streaming data pipeline for Data Lake using Apache Spark, Kafka, S3, Qubole, and Teradata in Scala, and Java and on AWS.",
+        "Modeled the Expedia lodging partner data for thousands of partners in Neo4J GraphDB, Amazon RDS, and Amazon Neptune to compare the three."
+      ]
+    },
+    {
+      "company": "Relativity",
+      "position": "Sr. Software Engineer \\ Technical Lead",
+      "website": "relativity.com",
+      "startDate": "2018-01-16",
+      "endDate": "2016-05-23",
+      "summary": "Developer of an e-Discovery solution for managing large volumes of evidence during litigation.",
+      "highlights": [
+        "Managed a team of two engineers to develop a search engine for 45 TB of audit logs in Elasticsearch in Azure using C#.",
+        "Managed a team of three engineers for SonarQube."
+      ]
+    },
+    {
+      "company": "Ansys",
+      "position": "Sr. Software Engineer \\ Technical Lead",
+      "website": "ansys.com",
+      "startDate": "2018-04-01",
+      "endDate": "2018-05-20",
+      "summary": "A fortune 500 company that developes Engineering simulation software.",
+      "highlights": [
+        "Led Teamcenter, NX, Solid Edge and other plugins in C#, C++, Python, Javascript."
       ]
     }
   ],
