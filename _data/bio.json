@@ -16,14 +16,14 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmurshed",
-        "url": "http://github.com/mmurshed"
-      },
-      {
         "network": "linkedin",
         "username": "mmurshed",
         "url": "http://linkedin.com/in/mmurshed"
+      },
+      {
+        "network": "github",
+        "username": "mmurshed",
+        "url": "http://github.com/mmurshed"
       },
       {
         "network": "github",
