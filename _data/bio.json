@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Mahbub Murshed",
+    "label": "Senior Software Engineer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "murshed@gmail.com",
+    "phone": "+1(412)953-2728",
+    "website": "https://mmurshed.github.io",
+    "summary": "Senior Software Engineer at Microsoft.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "98008",
+      "city": "Seattle",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Washington"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mmurshed",
+        "url": "http://github.com/mmurshed"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "mmurshed",
+        "url": "http://linkedin.com/in/mmurshed"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "udvranto",
+        "url": "http://twitter.com/udvranto"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "murshed",
+        "url": "http://instagram.com/murshed"
       }
     ]
   },
