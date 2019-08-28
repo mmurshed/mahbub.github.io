@@ -5,8 +5,8 @@
     "picture": "https://mmurshed.github.io/images/profile.jpg",
     "email": "murshed@gmail.com",
     "phone": "+1(412)953-2728",
-    "website": "https://mmurshed.github.io",
-    "summary": "Senior Software Engineer at Microsoft.",
+    "website": "https://mmurshed.com",
+    "summary": "Co-founded Media Website Sachalayatan.com, which won the digital innovation award 2011 by the ministry of science and ICT, Bangladesh. Managed a team of four engineers for lodging data platform for Expedia. Currently managing the connector certification portal for Microsoft Power Platform group.",
     "location": {
       "address": "",
       "postalCode": "98008",
@@ -29,11 +29,6 @@
         "network": "linkedin",
         "username": "mmurshed",
         "url": "http://linkedin.com/in/mmurshed"
-      },
-      {
-        "network": "twitter",
-        "username": "udvranto",
-        "url": "http://twitter.com/udvranto"
       }
     ]
   },
