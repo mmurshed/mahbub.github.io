@@ -34,21 +34,17 @@
   },
   "interests": [
     {
-      "name": "big data",
+      "name": "Big Data",
       "keywords": [
-        "Spark",
-        "Hadoop"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
-        "Machine Learning",
-        "Deep Learning"
       ]
     },
     {
-      "name": "bitcoin",
+      "name": "Bitcoin",
       "keywords": [
       ]
     }
@@ -161,8 +157,8 @@
       "company": "Ansys",
       "position": "Sr. Software Engineer \\ Technical Lead",
       "website": "ansys.com",
-      "startDate": "2018-04-01",
-      "endDate": "2018-05-20",
+      "startDate": "2008-04-01",
+      "endDate": "2016-05-20",
       "summary": "A fortune 500 company that developes Engineering simulation software.",
       "highlights": [
         "Led Teamcenter, NX, Solid Edge and other plugins in C#, C++, Python, Javascript."
