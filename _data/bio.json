@@ -2,7 +2,7 @@
   "basics": {
     "name": "Mahbub Murshed",
     "label": "Senior Software Engineer",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://mmurshed.github.io/images/profile.jpg",
     "email": "murshed@gmail.com",
     "phone": "+1(412)953-2728",
     "website": "https://mmurshed.github.io",
@@ -21,6 +21,11 @@
         "url": "http://github.com/mmurshed"
       },
       {
+        "network": "github",
+        "username": "mamurshe",
+        "url": "http://github.com/mamurshe"
+      },
+      {
         "network": "linkedin",
         "username": "mmurshed",
         "url": "http://linkedin.com/in/mmurshed"
@@ -29,29 +34,26 @@
         "network": "twitter",
         "username": "udvranto",
         "url": "http://twitter.com/udvranto"
-      },
-      {
-        "network": "instagram",
-        "username": "murshed",
-        "url": "http://instagram.com/murshed"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "big data",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
+        "Spark",
+        "Hadoop"
       ]
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "name": "bitcoin",
       "keywords": [
       ]
     }
