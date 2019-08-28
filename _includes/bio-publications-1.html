@@ -12,7 +12,7 @@
     <div class="ui grid">
       <div class="sixteen wide column no-bottom">
         <p class="ui no-bottom">
-          <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+          <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}{% if entry.publisher %}, <em>{{ entry.publisher }}</em>{% endif %}{% if entry.releaseDate %}, {{ entry.releaseDate }}{% endif %}
           {% if entry.website %}
         <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         {% endif %}
