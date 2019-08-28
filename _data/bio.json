@@ -21,14 +21,14 @@
         "url": "http://github.com/mmurshed"
       },
       {
-        "network": "github",
-        "username": "mamurshe",
-        "url": "http://github.com/mamurshe"
-      },
-      {
         "network": "linkedin",
         "username": "mmurshed",
         "url": "http://linkedin.com/in/mmurshed"
+      },
+      {
+        "network": "github",
+        "username": "mamurshe",
+        "url": "http://github.com/mamurshe"
       }
     ]
   },
