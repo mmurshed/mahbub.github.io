@@ -194,53 +194,71 @@
       "highlights": [
         "Led Teamcenter, NX, Solid Edge and other plugins in C#, C++, Python, Javascript."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "Sachalayatan",
+      "position": "Co-Founder",
+      "website": "sachalayatan.com",
+      "startDate": "2016-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "A blogging platform and media organization for Bengali speakers.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Co-founded a media website based on Drupal 6, custom modules, and theme in PHP 5.3, MySQL, NGINX on Debian.",
+        "Architected the system using AWS CloudFront, Memcache, Varnish, APC PHP Cache, MySQL, PHP Module for improved performance."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "company": "Arizona State University",
+      "position": "Research and Teaching Assistant",
+      "website": "asu.edu",
+      "startDate": "2015-01-01",
+      "endDate": "2018-01-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Developed a CAD software in C++ for a redesign problem."
+      ]
+    },
+    {
+      "company": "Metatude",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2015-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Developer of an e-survey solution.",
+      "highlights": [
+        "Designed the functionalities for release 2.5 as part of the C++ team."
       ]
     }
   ],
-  "awards": [
+  "publication": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Contribution in Programming Challenges",
+      "author": "Steven Skiena and Miguel Revilla"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Neutral Definition and Recognition of Assembly Features",
+      "author": "ASME IDETC"
+    },
+    {
+      "title": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
+      "author": "ASME IDETC"
     }
   ],
-  "references": [
+  "training": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Advanced and Core Elasticsearch"
+    },
+    {
+      "title": "Managing with Impact"
+    },
+    {
+      "title": "Project Management for Practitioners"
+    },
+    {
+      "title": "Search Inside Yourself"
     }
   ]
 }
