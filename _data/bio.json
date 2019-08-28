@@ -6,7 +6,7 @@
     "email": "murshed@gmail.com",
     "phone": "+1(412)953-2728",
     "website": "https://mmurshed.com",
-    "summary": "Co-founded Media Website Sachalayatan.com, which won the digital innovation award 2011 by the ministry of science and ICT, Bangladesh. Managed a team of four engineers for lodging data platform for Expedia. Currently managing the connector certification portal for Microsoft Power Platform group.",
+    "summary": "Co-founded media website Sachalayatan.com, which won the digital innovation award 2011 by the ministry of science and ICT, Bangladesh. Managed a team of four engineers for lodging data platform for Expedia. Currently managing the connector certification portal for Microsoft Power Platform group.",
     "location": {
       "address": "",
       "postalCode": "98008",
@@ -225,18 +225,30 @@
       ]
     }
   ],
-  "publication": [
+  "publications": [
     {
-      "title": "Contribution in Programming Challenges",
-      "author": "Steven Skiena and Miguel Revilla"
+      "name": "Contribution in Programming Challenges",
+      "author": "Steven Skiena and Miguel Revilla",
+      "website": "",
+      "publisher": "",
+      "releaseDate": "",
+      "summary": ""
     },
     {
-      "title": "Neutral Definition and Recognition of Assembly Features",
-      "author": "ASME IDETC"
+      "name": "Neutral Definition and Recognition of Assembly Features",
+      "author": "ASME IDETC",
+      "website": "",
+      "publisher": "",
+      "releaseDate": "",
+      "summary": ""
     },
     {
-      "title": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
-      "author": "ASME IDETC"
+      "name": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
+      "author": "ASME IDETC",
+      "website": "",
+      "publisher": "",
+      "releaseDate": "",
+      "summary": ""
     }
   ],
   "training": [
