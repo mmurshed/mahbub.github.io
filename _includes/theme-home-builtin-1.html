@@ -21,11 +21,13 @@
         <div class="meta">
           <span class="date">{{ site.data.bio.basics.label }}</span>
         </div>
-        {% for summary in site.data.basics.summary %}
         <div class="left aligned description">
+        {% for summary in site.data.bio.basics.summary %}
+        <p>
           {{ summary }}
-        </div>
+        </p>
         {% endfor %}
+        </div>
       </div>
       <div class="center aligned content">
         <div class="description">
