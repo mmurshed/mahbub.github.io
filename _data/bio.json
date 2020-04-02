@@ -7,7 +7,7 @@
     "website": "http://mmurshed.com",
     "summary": [
       "I co-founded media website Sachalayatan.com in 2006, which won the digital innovation award 2011 by the ministry of science and ICT, Bangladesh. At Expedia, I managed a team of four engineers for the lodging data platform. Currently, I am managing the connector certification portal for Microsoft Power Platform group.",
-      "I live in the greater Seattle area with my wife and a boy. I play guitar and photograph the nature. I am a biker and avid reader of all things non-fiction.",
+      "I live in the greater Seattle area with my wife and son. I play guitar and photograph the nature. I am a biker and avid reader of all things non-fiction.",
       "Please visit my LinkedIn profile to contact."
     ],
     "location": {
@@ -42,12 +42,12 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Deep Learning",
       "keywords": [
       ]
     },
     {
-      "name": "Bitcoin",
+      "name": "Entrepreneurship",
       "keywords": [
       ]
     }
@@ -58,14 +58,12 @@
       "level": "",
       "keywords": [
         "C#",
+        "Python",
         "C++14",
         "Scala",
-        "Java",
-        "Javascript",
-        "Python",
         "PHP",
-        "F#",
-        "MATLAB"
+        "Java",
+        "Javascript"
       ]
     },
     {
@@ -126,7 +124,11 @@
       "website": "https://www.microsoft.com",
       "startDate": "2018-10-08",
       "endDate": "Present",
-      "summary": "",
+      "summary": [
+        "Microsoft is the developer of Windows, the Microsoft Office suite, Azure and Xbox gaming consoles.",
+        "From the data a smart refrigerator sends to the service provider, with the help of Microsoft Power Automate, it can predict and fix the refrigerator before it is broken. My job is to enable hundreds of partners publish connectors to their services.",
+        "I am currently leading the connector open source initiative, which is generating more contribution and collaboration for Microsoft Power Automate services. I am managing a 2-engineer team for connector certification website. I provide technical direction and manage the project."
+      ],
       "highlights": [
         "Managing one engineer to develop connector certification portal.",
         "Leading the power platform connector open source effort using Python CLI, Azure Pipelines, and Flow, PowerApps, and LogicApps."
@@ -138,7 +140,10 @@
       "website": "https://www.expedia.com",
       "startDate": "2018-01-16",
       "endDate": "2018-10-05",
-      "summary": "",
+      "summary": [
+        "Expedia Group is an online travel company for consumer and small business travel.",
+        "The project I worked on was created to work on aggregated data to allow machine learning application to build knowledge and understanding for partner success. I managed 4 engineers to build a streaming big data pipeline and provided technical leadership and mentorship for the team. I ran weekly learning sessions, challenged the team to develop robust yet simple solutions, and coached the engineers to write good code and documentation."
+      ],
       "highlights": [
         "Managed a team of four engineers to build a big data (8 TB) streaming data pipeline for Data Lake using Apache Spark, Kafka, S3, Qubole, and Teradata in Scala, and Java and on AWS.",
         "Modeled the Expedia lodging partner data for thousands of partners in Neo4J GraphDB, Amazon RDS, and Amazon Neptune to compare the three."
@@ -150,7 +155,11 @@
       "website": "https://www.relativity.com",
       "startDate": "2016-05-23",      
       "endDate": "2018-01-16",
-      "summary": "Developer of an e-Discovery solution for managing large volumes of evidence during litigation.",
+      "summary": [
+        "Relativity is the 2017 Moxie award winner that develops an e-Discovery solution for managing large volumes of evidence during litigation.",
+        "A litigation that needs to work with multi-terabyte of data cannot use existing databases that are not designed to handle massive amount of data. Moreover, every audit done on a case must be stored for several years. I worked on a project that dealt with these big data cases and allowed the company to provide service for multi-million-dollar clients.",
+        "I managed a 2-engineer team to develop a search engine for 45 TB of audit logs. The project was a key to win $2.5 million project and was demoed during the yearly keynote conference. I also managed 3-engineer team for SonarQube static analysis adoption effort for about 300 engineers. It helped drive the software quality up for the company."
+      ],
       "highlights": [
         "Managed a team of two engineers to develop a search engine for 45 TB of audit logs in Elasticsearch in Azure using C#.",
         "Managed a team of three engineers for SonarQube."
@@ -162,7 +171,11 @@
       "website": "https://www.ansys.com",
       "startDate": "2008-04-01",
       "endDate": "2016-05-20",
-      "summary": "Ansys is a fortune 500 company that developes Engineering simulation software.",
+      "summary": [
+        "ANSYS is a fortune 500 company that develops Engineering simulation software.",
+        "I developed many software components, including Siemens NX, Solid Edge. I mentored a test engineer and led a software component development from scratch called Teamcenter.",
+        "Teamcenter is a third-party product data management software. The software to connect to Teamcenter generated about $100,000 per year."
+      ],
       "highlights": [
         "Led Teamcenter, NX, Solid Edge and other plugins in C#, C++, Python, Javascript."
       ]
@@ -173,7 +186,12 @@
       "website": "http://www.sachalayatan.com",
       "startDate": "2006-05-01",
       "endDate": "Present",
-      "summary": "Sachalayatan is a blogging platform and media organization for Bengali speakers.",
+      "summary": [
+        "Sachalayatan is a media organization that provides high quality and reliable source of news and information in Bengali language.",
+        "I co-founded the media website, sachalayatan.com, that generated 1 million page-views. The organization received the innovation award from the internet and communication ministry of Bangladesh for advancing Bengali language on the web.",
+        "I developed the business model, recruited the developer, core writers, and brand marketers, collected donations and developed rules and guidelines for the organization. People and public relationship management, fund raising, and leadership exercises broadened my skill set.",
+        "The business model centers around three things. First, strong focus on high quality articles regulated using a group of content moderators. Second, a collaborative social network fostered by article comments, messaging and chat applications. Third, lowered the technological barrier for writing Bengali by developing browser-based transliteration tools, converter for existing Bengali content, and by adopting Unicode technology on the website."
+      ],
       "highlights": [
         "Co-founded a media website based on Drupal 6, custom modules, and theme in PHP 5.3, MySQL, NGINX on Debian.",
         "Architected the system using AWS CloudFront, Memcache, Varnish, APC PHP Cache, MySQL, PHP Module for improved performance."
@@ -185,7 +203,11 @@
       "website": "https://www.asu.edu/",
       "startDate": "2005-01-01",
       "endDate": "2008-01-01",
-      "summary": "",
+      "summary": [
+        "The research project sponsor owns and operates many complex electro-mechanical systems that are decades old.",
+        "Due to the cost of replacement, these systems may continue to be used for decades to come, well beyond their intended design life. Continued maintenance requires spare parts, but the original manufacturers may no longer be around to provide them. This research project addresses the problem.",
+        "After successfully delivering the software and data model to US Military, the model continued to be used in recent projects involving car join design exploration and automatic tolerance detection for mass manufacturing systems, such as car manufacturing."
+      ],
       "highlights": [
         "Developed a CAD software in C++ for a redesign problem."
       ]
@@ -196,7 +218,9 @@
       "website": "",
       "startDate": "2004-09-01",
       "endDate": "2004-11-30",
-      "summary": "Developer of an e-survey solution.",
+      "summary": [
+        "Metatude is the developer of a customer relationship management (CRM) product."
+      ],
       "highlights": [
         "Designed the functionalities for release 2.5 as part of the C++ team."
       ]
@@ -227,11 +251,13 @@
   "publications": [
     {
       "name": "Contribution in Programming Challenges",
-      "author": "Steven Skiena and Miguel Revilla"
+      "author": "Steven Skiena and Miguel Revilla",
+      "summary" : "I wrote programming problems as an undergraduate student and organized programming contests online. One of the problems was selected for publication in the book."
     },
     {
       "name": "Neutral Definition and Recognition of Assembly Features",
-      "publisher": "ASME IDETC"
+      "publisher": "ASME IDETC",
+      "summary" : "Research work in this area helped US military fix legacy electro-mechanical systems in combat situation where the manufacturing facility is inadequate. The technology is currently being used in car manufacturing and automated tolerance detection in large manufacturing systems."
     },
     {
       "name": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
@@ -240,19 +266,20 @@
   ],
   "trainings": [
     {
-      "title": "Machine Learning"
+      "title": "Certificate in Machine and Deep Learning (in-progress)",
+      "provider": "University of Washington"
     },
     {
-      "title": "Advanced and Core Elasticsearch"
+      "title": "Advanced and Core Elasticsearch",
+      "provider": "Elastic Inc."
     },
     {
-      "title": "Managing with Impact"
+      "title": "Engineering Management Training",
+      "provider": "PowerSpeaking Inc."
     },
     {
-      "title": "Project Management for Practitioners"
-    },
-    {
-      "title": "Search Inside Yourself"
+      "title": "Project Management for Practitioners",
+      "provider": "Northwestern University"
     }
   ]
 }
