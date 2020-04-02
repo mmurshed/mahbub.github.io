@@ -3,8 +3,6 @@
     "name": "Mahbub Murshed",
     "label": "Technical Lead @ Microsoft",
     "picture": "https://mmurshed.github.io/images/profile.jpg",
-    "phone": "",
-    "website": "http://mmurshed.com",
     "summary": [
       "I co-founded media website Sachalayatan.com in 2006, which won the digital innovation award 2011 by the ministry of science and ICT, Bangladesh. At Expedia, I managed a team of four engineers for the lodging data platform. Currently, I am managing the connector certification portal for Microsoft Power Platform group.",
       "I live in the greater Seattle area with my wife and son. I play guitar and photograph the nature. I am a biker and avid reader of all things non-fiction.",
@@ -20,18 +18,8 @@
     "profiles": [
       {
         "network": "linkedin",
-        "username": "mmurshed",
+        "username": "LinkedIn Profile",
         "url": "http://linkedin.com/in/mmurshed"
-      },
-      {
-        "network": "github",
-        "username": "mmurshed",
-        "url": "http://github.com/mmurshed"
-      },
-      {
-        "network": "github",
-        "username": "mamurshe",
-        "url": "http://github.com/mamurshe"
       }
     ]
   },
@@ -255,13 +243,13 @@
       "summary" : "I wrote programming problems as an undergraduate student and organized programming contests online. One of the problems was selected for publication in the book."
     },
     {
+      "name": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
+      "publisher": "ASME IDETC"
+    },
+    {
       "name": "Neutral Definition and Recognition of Assembly Features",
       "publisher": "ASME IDETC",
       "summary" : "Research work in this area helped US military fix legacy electro-mechanical systems in combat situation where the manufacturing facility is inadequate. The technology is currently being used in car manufacturing and automated tolerance detection in large manufacturing systems."
-    },
-    {
-      "name": "OAM+: An Assembly Data Model for Legacy Systems Engineering",
-      "publisher": "ASME IDETC"
     }
   ],
   "trainings": [
@@ -280,6 +268,21 @@
     {
       "title": "Project Management for Practitioners",
       "provider": "Northwestern University"
+    }
+  ],
+  "volunteer" : [
+    {
+      "position": "Autism awareness and support through writings and donations",
+      "summary": "Many parents struggle to accept their child’s diagnosis. The chronic stress of taking care of an autistic kid on top of the social pressure can distract parents from providing the appropriate care the kid needs. I write about various aspects of our struggle and then coach parents of the newly diagnosed kids, so that they can receive proper care and support. I also donate to US and Bangladeshi Autism related organizations."
+    },
+    {
+      "position": "Organized, volunteered, and performed in Bangladeshi community and college alumni events"
+    }
+  ],
+  "awards" : [
+    {
+      "title": "Digital Innovation Award 2011 ",
+      "summary": "Awarded by the ministry of science and ICT, Bangladesh for founding the digital media company called sachalayatan.com and promoting Bengali language content."
     }
   ]
 }
