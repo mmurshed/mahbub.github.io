@@ -216,6 +216,24 @@
   ],
   "education": [
     {
+      "institution": "University of Washington, Seattle, WA",
+      "area": "Business Administration",
+      "studyType": "MBA",
+      "startDate": "2020",
+      "endDate": "2023",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Washington, Seattle, WA",
+      "area": "Machine and Deep Learning",
+      "studyType": "Certificate",
+      "startDate": "2019",
+      "endDate": "2020",
+      "courses": [
+      ]
+    },
+    {
       "institution": "Arizona State University, Tempe, AZ",
       "area": "Mechanical Engineering",
       "studyType": "M.S.",
